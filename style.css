@@ -1,0 +1,114 @@
+body {
+    text-align: center;
+
+}
+
+#videos iframe {
+    width: 80%;
+}
+
+.navbar-inverse {
+
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#marquee-style {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.contact_1 a {
+    margin-left: ;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.Main_div {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid white;
+}
+
+.Main_div img {
+    width: 100%;
+    height: 300px;
+}
+
+.Main_div hr {
+    width: 100%;
+}
+
+.Main_div h5,
+Main_div p {
+    margin-left: 20px;
+}
+
+#acheivementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orange;
+}
+
+#acheivementsID1 {
+    padding-bottom: 10px;
+}
+
+.movie_head1 {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head1 i {
+    float: right;
+}
+
+.movie_text1 span {
+    color: orange;
+}
+
+#acheivementsID2 {
+    padding-bottom: 10px;
+}
+
+.movie_head2 {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head2 i {
+    float: right;
+}
+
+.movie_text2 span {
+    color: orange;
+}
